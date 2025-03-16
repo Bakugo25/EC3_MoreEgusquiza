@@ -11,7 +11,7 @@ import com.venta.EC3_MoreEgusquiza.model.Client;
 import com.venta.EC3_MoreEgusquiza.service.ClientService;
 
 import java.util.List;
-//
+
 @RestController
 @RequestMapping("api/v1/client")
 public class ClientController {
